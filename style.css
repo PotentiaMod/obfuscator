@@ -1,20 +1,20 @@
 :root {
     --bg: #111;
-    --accent2: rgb(61, 160, 11);
+    --accent2: #2B00A6;
     --card: #272727;
     --line: #3c3c3c;
     --text: #eee;
     --muted: #eee;
     --err: #ff3146;
-    --accent: rgb(61, 160, 11);
+    --accent: #4800CC;
 }
 
 html {
-    scrollbar-color: #3DA00B #3c3c3c30;
+    scrollbar-color: #4800CC #3c3c3c30;
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #3DA00B;
+    background: #4800CC;
     border-radius: 5px;
 }
 
